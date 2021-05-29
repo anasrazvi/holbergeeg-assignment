@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Study List Component renders study list 1`] = `
+<div
+  className="innerContainer"
+>
+  <div
+    className="sectionHeader"
+  >
+    Study List:
+  </div>
+  <div
+    className="gridContainer"
+  >
+    <div
+      className="header"
+    />
+    <div />
+  </div>
+</div>
+`;

@@ -1,0 +1,550 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grid Component renders grid component 1`] = `
+<div
+  className="gridContainer"
+>
+  <div
+    className="header"
+  >
+    <div
+      className="col"
+    >
+      <strong>
+        Study start
+      </strong>
+    </div>
+    <div
+      className="col"
+    >
+      <strong>
+        Study length
+      </strong>
+    </div>
+    <div
+      className="col"
+    >
+      <strong>
+        Study type
+      </strong>
+    </div>
+    <div
+      className="col"
+    >
+      <strong>
+        Study status
+      </strong>
+    </div>
+    <div
+      className="col"
+    >
+      <strong>
+        Name
+      </strong>
+    </div>
+    <div
+      className="col"
+    >
+      <strong>
+        Patient ID
+      </strong>
+    </div>
+    <div
+      className="col"
+    >
+      <strong>
+        Date of birth
+      </strong>
+    </div>
+    <div
+      className="col"
+    >
+      <strong>
+        Age at the time of study
+      </strong>
+    </div>
+  </div>
+  <div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        2021-01-15 13:29
+      </div>
+      <div
+        className="col"
+      >
+        30 minutes 
+      </div>
+      <div
+        className="col"
+      >
+        Sleep deprived EEG
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          className="studyStatus"
+        >
+          New
+        </div>
+      </div>
+      <div
+        className="col"
+      >
+        TESTr, Test Test
+      </div>
+      <div
+        className="col"
+      >
+        TEST1
+      </div>
+      <div
+        className="col"
+      >
+        1990-12-28
+      </div>
+      <div
+        className="col"
+      >
+        30 years
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        2021-01-15 13:29
+      </div>
+      <div
+        className="col"
+      >
+        30 minutes 
+      </div>
+      <div
+        className="col"
+      >
+        Standard EEG
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          className="studyStatus"
+        >
+          New
+        </div>
+      </div>
+      <div
+        className="col"
+      >
+        Taylor, Billy Lee
+      </div>
+      <div
+        className="col"
+      >
+        IdentityString41
+      </div>
+      <div
+        className="col"
+      >
+        1990-12-28
+      </div>
+      <div
+        className="col"
+      >
+        30 years
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        2021-01-15 13:29
+      </div>
+      <div
+        className="col"
+      >
+        30 minutes 
+      </div>
+      <div
+        className="col"
+      >
+        Long term monitoring (LTM)
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          className="studyStatus"
+        >
+          New
+        </div>
+      </div>
+      <div
+        className="col"
+      >
+        Taylor, Billy Lee
+      </div>
+      <div
+        className="col"
+      >
+        IdentityString24
+      </div>
+      <div
+        className="col"
+      >
+        1990-12-28
+      </div>
+      <div
+        className="col"
+      >
+        30 years
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        2020-09-16 13:29
+      </div>
+      <div
+        className="col"
+      >
+        30 minutes 
+      </div>
+      <div
+        className="col"
+      >
+        Intraoperative monitoring
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          className="studyStatus"
+        >
+          New
+        </div>
+      </div>
+      <div
+        className="col"
+      >
+        Jones, James Beth
+      </div>
+      <div
+        className="col"
+      >
+        IdentityString23
+      </div>
+      <div
+        className="col"
+      >
+        2020-06-14
+      </div>
+      <div
+        className="col"
+      >
+        3 months, 4 weeks
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        2020-08-25 14:30
+      </div>
+      <div
+        className="col"
+      >
+        1 hour 20 minutes 
+      </div>
+      <div
+        className="col"
+      >
+        Ambulatory recording
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          className="studyStatus"
+        >
+          New
+        </div>
+      </div>
+      <div
+        className="col"
+      >
+        RODRIGUEZAl, fred Judith
+      </div>
+      <div
+        className="col"
+      >
+        IdentityString10
+      </div>
+      <div
+        className="col"
+      >
+        1996-09-15
+      </div>
+      <div
+        className="col"
+      >
+        23 years
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        2020-08-25 14:30
+      </div>
+      <div
+        className="col"
+      >
+        1 day 6 hours 
+      </div>
+      <div
+        className="col"
+      >
+        Wada test
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          className="studyStatus"
+        >
+          New
+        </div>
+      </div>
+      <div
+        className="col"
+      >
+        WILSON, Barbara Carolyn
+      </div>
+      <div
+        className="col"
+      >
+        IdentityString15
+      </div>
+      <div
+        className="col"
+      >
+        2020-01-20
+      </div>
+      <div
+        className="col"
+      >
+        7 months
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        2020-08-25 14:30
+      </div>
+      <div
+        className="col"
+      >
+        1 day 
+      </div>
+      <div
+        className="col"
+      >
+        Ambulatory recording
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          className="studyStatus"
+        >
+          New
+        </div>
+      </div>
+      <div
+        className="col"
+      >
+        JONES, Annie bilaspur
+      </div>
+      <div
+        className="col"
+      >
+        IdentityString13
+      </div>
+      <div
+        className="col"
+      >
+        1959-05-03
+      </div>
+      <div
+        className="col"
+      >
+        61 years
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        2020-08-25 14:30
+      </div>
+      <div
+        className="col"
+      >
+        1 day 
+      </div>
+      <div
+        className="col"
+      >
+        ICU
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          className="studyStatus"
+        >
+          New
+        </div>
+      </div>
+      <div
+        className="col"
+      >
+        RODRIGUEZ, Karen Janet
+      </div>
+      <div
+        className="col"
+      >
+        IdentityString11
+      </div>
+      <div
+        className="col"
+      >
+        1952-08-14
+      </div>
+      <div
+        className="col"
+      >
+        68 years
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        2020-08-25 14:30
+      </div>
+      <div
+        className="col"
+      >
+        1 day 
+      </div>
+      <div
+        className="col"
+      >
+        Ambulatory recording
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          className="studyStatus"
+        >
+          New
+        </div>
+      </div>
+      <div
+        className="col"
+      >
+        LEE, Larry Mary
+      </div>
+      <div
+        className="col"
+      >
+        IdentityString21
+      </div>
+      <div
+        className="col"
+      >
+        2004-06-16
+      </div>
+      <div
+        className="col"
+      >
+        16 years
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+      >
+        2020-08-25 14:30
+      </div>
+      <div
+        className="col"
+      >
+        1 day 1 hour 5 minutes 
+      </div>
+      <div
+        className="col"
+      >
+        Sleep deprived EEG
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          className="studyStatus"
+        >
+          New
+        </div>
+      </div>
+      <div
+        className="col"
+      >
+        TAYLOR, Mary MARTIN
+      </div>
+      <div
+        className="col"
+      >
+        IdentityString1
+      </div>
+      <div
+        className="col"
+      >
+        1968-12-31
+      </div>
+      <div
+        className="col"
+      >
+        51 years
+      </div>
+    </div>
+  </div>
+</div>
+`;

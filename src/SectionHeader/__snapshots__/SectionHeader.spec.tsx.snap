@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Section Header Component renders section header 1`] = `
+<div
+  className="sectionHeader"
+>
+  Study List:
+</div>
+`;

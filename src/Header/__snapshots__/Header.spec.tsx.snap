@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grid Header Component renders grid header 1`] = `
+<div
+  className="header"
+>
+  <div
+    className="col"
+  >
+    <strong>
+      Study start
+    </strong>
+  </div>
+  <div
+    className="col"
+  >
+    <strong>
+      Study length
+    </strong>
+  </div>
+  <div
+    className="col"
+  >
+    <strong>
+      Study type
+    </strong>
+  </div>
+  <div
+    className="col"
+  >
+    <strong>
+      Study status
+    </strong>
+  </div>
+  <div
+    className="col"
+  >
+    <strong>
+      Name
+    </strong>
+  </div>
+  <div
+    className="col"
+  >
+    <strong>
+      Patient ID
+    </strong>
+  </div>
+  <div
+    className="col"
+  >
+    <strong>
+      Date of birth
+    </strong>
+  </div>
+  <div
+    className="col"
+  >
+    <strong>
+      Age at the time of study
+    </strong>
+  </div>
+</div>
+`;

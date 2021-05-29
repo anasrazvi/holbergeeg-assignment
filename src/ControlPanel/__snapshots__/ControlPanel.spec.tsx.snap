@@ -1,0 +1,4889 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Control Panel renders control panel 1`] = `
+<div
+  className="innerContainer"
+>
+  <div
+    className="sectionHeader"
+  >
+    Studies List control panel:
+  </div>
+  <div
+    className="leftContainerBody"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Study start"
+      >
+        Study start
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#111111",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(29px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={true}
+            checked={true}
+            disabled={false}
+            id="0"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Study length"
+      >
+        Study length
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#111111",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(29px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={true}
+            checked={true}
+            disabled={false}
+            id="1"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Study type"
+      >
+        Study type
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#111111",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(29px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={true}
+            checked={true}
+            disabled={false}
+            id="2"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Study status"
+      >
+        Study status
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#111111",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(29px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={true}
+            checked={true}
+            disabled={false}
+            id="3"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Name"
+      >
+        Name
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#111111",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(29px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={true}
+            checked={true}
+            disabled={false}
+            id="4"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Patient ID"
+      >
+        Patient ID
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#111111",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(29px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={true}
+            checked={true}
+            disabled={false}
+            id="5"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Date of birth"
+      >
+        Date of birth
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#111111",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(29px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={true}
+            checked={true}
+            disabled={false}
+            id="6"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Age at the time of study"
+      >
+        Age at the time of study
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#111111",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(29px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={true}
+            checked={true}
+            disabled={false}
+            id="7"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Referrer"
+      >
+        Referrer
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="8"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Indication for EEG"
+      >
+        Indication for EEG
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="9"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Clinical diagnosis at referral"
+      >
+        Clinical diagnosis at referral
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="10"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Diagnostic significance"
+      >
+        Diagnostic significance
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="11"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Clinical comments"
+      >
+        Clinical comments
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="12"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Summary"
+      >
+        Summary
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="13"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Last episode"
+      >
+        Last episode
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="14"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Episode frequency"
+      >
+        Episode frequency
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="15"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Medication"
+      >
+        Medication
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="16"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Brain MRI/CT"
+      >
+        Brain MRI/CT
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="17"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Functional Neuroimaging"
+      >
+        Functional Neuroimaging
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="18"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Medication during the study"
+      >
+        Medication during the study
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="19"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Medication withdrawal"
+      >
+        Medication withdrawal
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="20"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Latest meal"
+      >
+        Latest meal
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="21"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Alertness"
+      >
+        Alertness
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="22"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Study end"
+      >
+        Study end
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="23"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="External database"
+      >
+        External database
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="24"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Gestational age"
+      >
+        Gestational age
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="25"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Corrected age"
+      >
+        Corrected age
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="26"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+    <div
+      className="row"
+    >
+      <div
+        className="col"
+        title="Postmenstrual age"
+      >
+        Postmenstrual age
+      </div>
+      <div
+        className="col"
+      >
+        <div
+          style={
+            Object {
+              "MozTransition": "opacity 0.25s",
+              "MozUserSelect": "none",
+              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+              "WebkitTransition": "opacity 0.25s",
+              "WebkitUserSelect": "none",
+              "borderRadius": 14,
+              "direction": "ltr",
+              "display": "inline-block",
+              "msUserSelect": "none",
+              "opacity": 1,
+              "position": "relative",
+              "textAlign": "left",
+              "touchAction": "none",
+              "transition": "opacity 0.25s",
+              "userSelect": "none",
+            }
+          }
+        >
+          <div
+            className="react-switch-bg"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            style={
+              Object {
+                "MozTransition": "background 0.25s",
+                "WebkitTransition": "background 0.25s",
+                "background": "#888888",
+                "borderRadius": 14,
+                "cursor": "pointer",
+                "height": 28,
+                "margin": 0,
+                "position": "relative",
+                "transition": "background 0.25s",
+                "width": 56,
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 0,
+                  "pointerEvents": "none",
+                  "position": "relative",
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 17 21"
+                width="100%"
+              >
+                <path
+                  d="M11.264 0L5.26 6.004 2.103 2.847 0 4.95l5.26 5.26 8.108-8.107L11.264 0"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              style={
+                Object {
+                  "MozTransition": "opacity 0.25s",
+                  "WebkitTransition": "opacity 0.25s",
+                  "height": 28,
+                  "opacity": 1,
+                  "pointerEvents": "none",
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "transition": "opacity 0.25s",
+                  "width": 30,
+                }
+              }
+            >
+              <svg
+                height="100%"
+                style={
+                  Object {
+                    "position": "absolute",
+                    "top": 0,
+                  }
+                }
+                viewBox="-2 -5 14 20"
+                width="100%"
+              >
+                <path
+                  d="M9.9 2.12L7.78 0 4.95 2.828 2.12 0 0 2.12l2.83 2.83L0 7.776 2.123 9.9 4.95 7.07 7.78 9.9 9.9 7.776 7.072 4.95 9.9 2.12"
+                  fill="#fff"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            className="react-switch-handle"
+            onClick={[Function]}
+            onMouseDown={[Function]}
+            onTouchCancel={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            style={
+              Object {
+                "MozTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "WebkitTransition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "background": "#ffffff",
+                "border": 0,
+                "borderRadius": "50%",
+                "boxShadow": null,
+                "cursor": "pointer",
+                "display": "inline-block",
+                "height": 26,
+                "outline": 0,
+                "position": "absolute",
+                "top": 1,
+                "transform": "translateX(1px)",
+                "transition": "background-color 0.25s, transform 0.25s, box-shadow 0.15s",
+                "width": 26,
+              }
+            }
+          />
+          <input
+            aria-checked={false}
+            checked={false}
+            disabled={false}
+            id="27"
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            onKeyUp={[Function]}
+            role="switch"
+            style={
+              Object {
+                "border": 0,
+                "clip": "rect(0 0 0 0)",
+                "height": 1,
+                "margin": -1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "absolute",
+                "width": 1,
+              }
+            }
+            type="checkbox"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
